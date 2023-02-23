@@ -18,7 +18,7 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'GiddyBank',
+    title: 'Bank App',
     description: "This is a Web3 banking app that allows users to create accounts, deposit and withdraw money, and transfer money to other users.",
     image: 'https://interexy.com/wp-content/uploads/2022/12/iStock-1401305904-1024x559.jpeg',
     tags: ['React', 'ChatEngine', 'Swipe'],
