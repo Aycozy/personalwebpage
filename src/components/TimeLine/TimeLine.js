@@ -51,7 +51,7 @@ const Timeline = () => {
         <img alt="" src={'/images/portfol.jpeg'} style={{ width: '300px', float: "right", height: "70%", padding: "6px 6px 2px 8px"}} />
     
       <div style={{ textAlign: 'justify'}}>
-      Welcome to my portfolio! My name is Gideon and I am a Full-stack web developer with 3+ years of experience in software engineering. I am passionate about developing innovative software solutions that can solve real-world problems and make people's lives easier.
+      Welcome to my portfolio! My name is Gideon and I am a Full-stack web developer with 2+ years of experience in software engineering. I am passionate about developing innovative software solutions that can solve real-world problems and make people's lives easier.
 
 Over the years, I have worked on a variety of projects ranging from simple web applications to complex enterprise-level systems. I am skilled in a variety of javascript based utilities ranging Front-end to back-end. Also I keep myself up-to-date with the latest technologies and programming languages.
 
