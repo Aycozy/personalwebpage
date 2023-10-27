@@ -13,7 +13,7 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           I'm Gideon <br/>
-          Full-Stack Developer with 2+ years of experience
+          Full-Stack Web 3 developer and smart contract security researcher.
         </SectionTitle>
         <SectionText>
         I care a lot about human friendly interface design and excellent code quality. Don’t take my word for it, check out my portfolio.
