@@ -51,16 +51,9 @@ const Timeline = () => {
         <img alt="" src={'/images/portfol.jpeg'} style={{ width: '300px', float: "right", height: "70%", padding: "6px 6px 2px 8px"}} />
     
       <div style={{ textAlign: 'justify'}}>
-      Welcome to my portfolio! My name is Gideon and I am a Full-stack web developer with 2+ years of experience in software engineering. I am passionate about developing innovative software solutions that can solve real-world problems and make people's lives easier.
-
-Over the years, I have worked on a variety of projects ranging from simple web applications to complex enterprise-level systems. I am skilled in a variety of javascript based utilities ranging Front-end to back-end. Also I keep myself up-to-date with the latest technologies and programming languages.
-
-One of my strengths is my ability to collaborate effectively with other team members and stakeholders. I believe that good communication, trust, and respect are the foundations of any successful project.
-
-Apart from my technical skills, I also have strong problem-solving and analytical skills. I enjoy breaking down complex problems into smaller, more manageable parts and finding elegant solutions for them.
-
-
-Thank you for taking the time to visit my portfolio. If you have any questions or would like to discuss a project, feel free to contact me. I look forward to hearing from you!
+Hello I'm Gideon, a passionate and experienced blockchain developer and smart contract auditor dedicated to securing and building the future of decentralized systems.
+  With a deep understanding of blockchain technology and a keen eye for smart contract security,
+  I'm committed to creating innovative, secure, and efficient solutions in the rapidly evolving blockchain space.
      </div> 
      
       </SectionText>
